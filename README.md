@@ -17,7 +17,7 @@
 I'm a **Mathematical Engineering student** at one of France's top engineering schools with a passion for **quantitative finance**, **data science**, and **applied mathematics**. 
 
 🌍 **Multicultural background**: Italian-Moroccan heritage, trilingual native speaker  
-🎯 **Current focus**: Machine Learning, Statistics & Probability, Optimization, Software Engineering, Quant Finance
+📊 **Current focus**: Machine Learning, Statistics & Probability, Optimization, Software Engineering, Quant Finance
 💡 **Entrepreneurial mindset**: From launching small ventures to leading TEDxMinesNancy  
 🔬 **Research interests**: Currently researching Dirichlet-to-Neumann mapping for PDEs
 🎯 Looking for a ** 2-to-3 month internship starting mid-June 2026** in Quant / Data / ML / SWE
