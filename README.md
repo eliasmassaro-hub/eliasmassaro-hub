@@ -2,7 +2,7 @@
   
 # Elias Massaro
 
-### Mathematical Engineering Student @ Mines Nancy | Finance/ML/Data Internship Seeker
+### Mathematical Engineering Student @ Mines Nancy | Finance/ML/Data/SWE Internship Seeker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-massaro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massaroelias2@gmail.com)
