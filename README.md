@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Mathematical Engineering student** at one of France's top engineering schools with a passion for **quantitative finance**, **data science**, and **applied mathematics**. 
 
@@ -24,7 +24,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 🎤 **President @ TEDxMinesNancy** | Leading 30+ team members, managing €30K+ budget  
 🔬 **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse problems (PDEs) <br>
@@ -32,7 +32,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -49,7 +49,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 
 ---
 
-## 🎓 Education
+## Education
 
 **École Nationale Supérieure des Mines de Nancy** | MSc in Mathematical Engineering  
 📍 Nancy, France | 🗓️ Sept 2024 - Present | 📊 GPA: 3.5/4.0
@@ -63,7 +63,7 @@ Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference 
 
 ---
 
-## 🌐 Languages
+## Languages
 
 🇮🇹 **Italian** - Native  
 🇫🇷 **French** - Native  
@@ -73,7 +73,7 @@ Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference 
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to discussing **quantitative finance**, **mathematical modeling**, or potential **collaboration opportunities**!
 
