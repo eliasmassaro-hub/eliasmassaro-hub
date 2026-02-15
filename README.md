@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Elias Massaro
 
-### Junior Quantitative Trader | Mathematical Engineering Student @ Mines Nancy
+### Mathematical Engineering Student @ Mines Nancy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-massaro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massaroelias2@gmail.com)
@@ -17,16 +17,17 @@
 I'm a **Mathematical Engineering student** at one of France's top engineering schools with a passion for **quantitative finance**, **data science**, and **applied mathematics**. 
 
 🌍 **Multicultural background**: Italian-Moroccan heritage, trilingual native speaker  
-🎯 **Current focus**: Stochastic processes, PDEs, Monte Carlo methods & statistical inference  
+🎯 **Current focus**: Machine Learning, Statistics & Probability, Optimization, Software Engineering, Quant Finance
 💡 **Entrepreneurial mindset**: From launching small ventures to leading TEDxMinesNancy  
-🔬 **Research interests**: Inverse problems, numerical analysis, mathematical finance
+🔬 **Research interests**: Currently researching Dirichlet-to-Neumann mapping for PDEs
+🎯 Looking for a ** 2-to-3 month internship starting mid-June 2026** in Quant / Data / ML / SWE
 
 ---
 
 ## 💼 Experience Highlights
 
 🎤 **President @ TEDxMinesNancy** | Leading 30+ team members, managing €30K+ budget  
-🔬 **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse Wave Equation problems  
+🔬 **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse problems (PDEs)
 📊 **Quantitative Finance Enthusiast** | Building projects at the intersection of math & finance
 
 ---
@@ -54,7 +55,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 📍 Nancy, France | 🗓️ Sept 2024 - Present | 📊 GPA: 3.5/4.0
 
 **Relevant Coursework**:  
-Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference • Game Theory • Data Analysis
+Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference • Game Theory • Data Analysis • Machine Learning
 
 **La Prépa Des INP Bordeaux** | Preparatory Classes  
 📍 Bordeaux, France | 🗓️ Sept 2022 - July 2024  
@@ -81,14 +82,6 @@ Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONUSERNAME&layout=compact&theme=radical)
 
 </div>
-
----
-
-## 🎯 Current Projects
-
-🔍 Exploring **inverse problems** in PDEs with Dirichlet-to-Neumann mapping  
-📈 Building **quantitative trading strategies** using Python & statistical models  
-💼 Developing **financial mathematics** applications for portfolio optimization
 
 ---
 
