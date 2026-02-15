@@ -27,7 +27,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 ## 💼 Experience Highlights
 
 🎤 **President @ TEDxMinesNancy** | Leading 30+ team members, managing €30K+ budget  
-🔬 **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse problems (PDEs)
+🔬 **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse problems (PDEs) <br>
 📊 **Quantitative Finance Enthusiast** | Building projects at the intersection of math & finance
 
 ---
