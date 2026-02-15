@@ -73,18 +73,6 @@ Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=TONUSERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONUSERNAME&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to discussing **quantitative finance**, **mathematical modeling**, or potential **collaboration opportunities**!
