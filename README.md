@@ -1,50 +1,111 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:001F3F&height=220&section=header&text=Elias%20Massaro&fontSize=50&fontColor=ffffff&desc=Junior%20Quantitative%20Trader%20|%20Mines%20Nancy&descAlignY=65)
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=333333&center=true&vCenter=true&width=760&lines=Élève+Ingénieur+aux+Mines+de+Nancy;Passionné+de+Finance+Quantitative;Mathématiques+Appliquées+%26+Data+Science;Recherche+sur+les+EDP+et+Problèmes+Inverses" alt="Typing SVG" />
-</div>
+  
+# 👋 Hi, I'm Elias Massaro
 
-<div align="center">
-  <a href="mailto:massaroelias2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-massaroelias2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/elias-massaro">
-    <img src="https://img.shields.io/badge/LinkedIn-Elias%20Massaro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### Junior Quantitative Trader | Mathematical Engineering Student @ Mines Nancy
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-massaro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:massaroelias2@gmail.com)
+[![Location](https://img.shields.io/badge/Nancy-France-blue?style=for-the-badge)](https://www.google.com/maps?q=Nancy,France)
+
 </div>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 🚀 About Me
 
-Je suis actuellement étudiant en **Ingénierie Mathématique** à l'**École Nationale Supérieure des Mines de Nancy** [MSc](). Avec un profil multiculturel (trilingue natif) et un fort intérêt pour la finance de marché, je me spécialise dans l'application des mathématiques complexes aux problèmes financiers.
+I'm a **Mathematical Engineering student** at one of France's top engineering schools with a passion for **quantitative finance**, **data science**, and **applied mathematics**. 
 
-* 🔭 **Expérience actuelle :** Président de **TEDxMinesNancy** (Gestion d'équipe, budget 30k€).
-* 🧠 **Recherche :** Stagiaire au **IECL** sur les équations aux dérivées partielles (EDP) et problèmes inverses.
-* 📍 **Localisation :** Nancy, France
-* 🎯 **Intérêts :** Trading Quantitatif, Analyse Stochastique, Algorithmic Trading.
+🌍 **Multicultural background**: Italian-Moroccan heritage, trilingual native speaker  
+🎯 **Current focus**: Stochastic processes, PDEs, Monte Carlo methods & statistical inference  
+💡 **Entrepreneurial mindset**: From launching small ventures to leading TEDxMinesNancy  
+🔬 **Research interests**: Inverse problems, numerical analysis, mathematical finance
 
 ---
 
-## 🛠 Compétences Techniques
+## 💼 Experience Highlights
 
-| Domaine | Technologies & Concepts |
-| :--- | :--- |
-| **Programmation** | **Python**, **R**, **Matlab**, AMPL, LaTeX |
-| **Maths Financières** | Calcul Stochastique, Monte Carlo, Théorie des Jeux, Inférence Statistique |
-| **Outils** | Excel, Word, Git |
+🎤 **President @ TEDxMinesNancy** | Leading 30+ team members, managing €30K+ budget  
+🔬 **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse Wave Equation problems  
+📊 **Quantitative Finance Enthusiast** | Building projects at the intersection of math & finance
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**Tools & Technologies**  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![AMPL](https://img.shields.io/badge/AMPL-Optimization-orange?style=flat-square)
+
+**Specializations**  
+`Statistical Analysis` • `Financial Mathematics` • `Monte Carlo Methods` • `Numerical Analysis` • `Data Science`
+
+---
+
+## 🎓 Education
+
+**École Nationale Supérieure des Mines de Nancy** | MSc in Mathematical Engineering  
+📍 Nancy, France | 🗓️ Sept 2024 - Present | 📊 GPA: 3.5/4.0
+
+**Relevant Coursework**:  
+Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference • Game Theory • Data Analysis
+
+**La Prépa Des INP Bordeaux** | Preparatory Classes  
+📍 Bordeaux, France | 🗓️ Sept 2022 - July 2024  
+2-year intensive program in Mathematics, Physics, and Engineering Sciences
+
+---
+
+## 🌐 Languages
+
+🇮🇹 **Italian** - Native  
+🇫🇷 **French** - Native  
+🇲🇦 **Moroccan Arabic** - Native  
+🇬🇧 **English** - Professional (IELTS 8/9)  
+🇪🇸 **Spanish** - Advanced (SIELE B2)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,latex,c,git&perline=8" />
+  
+![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=TONUSERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TONUSERNAME&layout=compact&theme=radical)
+
 </div>
 
 ---
 
-## 📈 Mes Statistiques GitHub
+## 🎯 Current Projects
+
+🔍 Exploring **inverse problems** in PDEs with Dirichlet-to-Neumann mapping  
+📈 Building **quantitative trading strategies** using Python & statistical models  
+💼 Developing **financial mathematics** applications for portfolio optimization
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing **quantitative finance**, **mathematical modeling**, or potential **collaboration opportunities**!
+
+📧 Email: massaroelias2@gmail.com  
+💼 LinkedIn: [elias-massaro](https://www.linkedin.com/in/elias-massaro)  
+📍 Location: Nancy, France
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE-PSEUDO&show_icons=true&theme=radical" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-PSEUDO&layout=compact&theme=radical" height="150" alt="Languages" />
-</div>
+  
+### 💡 "Passionate about turning complex mathematical problems into practical solutions"
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366&height=120&section=footer)
+⭐️ From [Elias Massaro](https://github.com/TONUSERNAME)
+
+</div>
