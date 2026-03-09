@@ -84,8 +84,7 @@ I'm always open to discussing **quantitative finance**, **mathematical modeling*
 ---
 
 <div align="center">
-  
-### 💡 "Passionate about turning complex mathematical problems into practical solutions"
+
 
 ⭐️ From [Elias Massaro](https://github.com/TONUSERNAME)
 
