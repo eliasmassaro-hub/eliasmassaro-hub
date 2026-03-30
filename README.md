@@ -52,7 +52,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 ## Education
 
 **École Nationale Supérieure des Mines de Nancy** | MSc in Mathematical Engineering  
-📍 Nancy, France | 🗓️ Sept 2024 - Present | 📊 GPA: 3.5/4.0
+📍 Nancy, France | 🗓️ Sept 2024 - Present | 📊 GPA: 3.64/4.0
 
 **Relevant Coursework**:  
 Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference • Game Theory • Data Analysis • Machine Learning
