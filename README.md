@@ -18,8 +18,6 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 
  **Multicultural background**: Italian-Moroccan heritage, trilingual native speaker  
  **Current focus**: Machine Learning, Statistics & Probability, Optimization, Software Engineering <br>
- **Entrepreneurial mindset**: From launching small ventures to leading TEDxMinesNancy  
-
 
 ---
 
