@@ -16,18 +16,17 @@
 
 I'm a **Mathematical Engineering student** at one of France's top engineering schools with a passion for **machine learning**, **data science**, and **applied mathematics**. 
 
-🌍 **Multicultural background**: Italian-Moroccan heritage, trilingual native speaker  
-📊 **Current focus**: Machine Learning, Statistics & Probability, Optimization, Software Engineering <br>
-💡 **Entrepreneurial mindset**: From launching small ventures to leading TEDxMinesNancy  
-🔬 **Research interests**: Currently researching Dirichlet-to-Neumann mapping for PDEs <br>
-🎯 Looking for a **2-to-3 month internship starting mid-June 2026** in Quant / Data / ML / SWE
+ **Multicultural background**: Italian-Moroccan heritage, trilingual native speaker  
+ **Current focus**: Machine Learning, Statistics & Probability, Optimization, Software Engineering <br>
+ **Entrepreneurial mindset**: From launching small ventures to leading TEDxMinesNancy  
+
 
 ---
 
 ## Experience Highlights
 
-🎤 **President @ TEDxMinesNancy** | Leading 30+ team members, managing €30K+ budget  
-🔬 **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse problems (PDEs) <br>
+ **President @ TEDxMinesNancy** | Leading 30+ team members, managing €30K+ budget  
+ **Research Intern @ Institut Elie Cartan (IECL)** | Working on inverse problems (PDEs) <br>
 
 
 ---
@@ -52,7 +51,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 ## Education
 
 **École Nationale Supérieure des Mines de Nancy** | MSc in Mathematical Engineering  
-📍 Nancy, France | 🗓️ Sept 2024 - Present | 📊 GPA: 3.64/4.0
+📍 Nancy, France | 🗓️ Sept 2024 - Present |  GPA: 3.64/4.0
 
 **Relevant Coursework**:  
 Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference • Game Theory • Data Analysis • Machine Learning
@@ -77,9 +76,9 @@ Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference 
 
 I'm always open to discussing **quantitative finance**, **mathematical modeling**, or potential **collaboration opportunities**!
 
-📧 Email: massaroelias2@gmail.com  
-💼 LinkedIn: [elias-massaro](https://www.linkedin.com/in/elias-massaro)  
-📍 Location: Nancy, France
+ Email: massaroelias2@gmail.com  
+ LinkedIn: [elias-massaro](https://www.linkedin.com/in/elias-massaro)  
+ Location: Nancy, France
 
 ---
 
