@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **Mathematical Engineering student** at one of France's top engineering schools with a passion for **quantitative finance**, **data science**, and **applied mathematics**. 
+I'm a **Mathematical Engineering student** at one of France's top engineering schools with a passion for **machine learning**, **data science**, and **applied mathematics**. 
 
 🌍 **Multicultural background**: Italian-Moroccan heritage, trilingual native speaker  
 📊 **Current focus**: Machine Learning, Statistics & Probability, Optimization, Software Engineering <br>
