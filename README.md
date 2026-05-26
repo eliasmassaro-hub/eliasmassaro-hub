@@ -54,7 +54,7 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 📍 Nancy, France | 🗓️ Sept 2024 - Present |  GPA: 3.64/4.0
 
 **Relevant Coursework**:  
-Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference • Game Theory • Data Analysis • Machine Learning
+Stochastic Processes • PDEs • Monte Carlo Methods • Statistical Inference • Time Series • Data Analysis • Machine Learning
 
 **La Prépa Des INP Bordeaux** | Preparatory Classes  
 📍 Bordeaux, France | 🗓️ Sept 2022 - July 2024  
