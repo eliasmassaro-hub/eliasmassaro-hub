@@ -41,9 +41,6 @@ I'm a **Mathematical Engineering student** at one of France's top engineering sc
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![AMPL](https://img.shields.io/badge/AMPL-Optimization-orange?style=flat-square)
 
-**Specializations**  
-`Statistical Analysis` • `Financial Mathematics` • `Monte Carlo Methods` • `Numerical Analysis` • `Data Science`
-
 ---
 
 ## Education
